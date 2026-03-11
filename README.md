@@ -59,6 +59,15 @@
 
 </div>
 
+## 🎨 Design Tools
+
+<div align="center">
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+
+</div>
+
 ---
 
 ## 📊 Stats
